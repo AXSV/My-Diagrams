@@ -48,7 +48,7 @@ We use [All Contributors](https://allcontributors.org/) to recognize everyone wh
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="http://stellaray777.vercel.app"><img src="https://avatars.githubusercontent.com/u/143504233?v=4?s=100" width="100px;" alt="𝓢𝓽𝓮𝓵𝓵𝓪 𝓡𝓪𝔂"/><br /><sub><b>𝓢𝓽𝓮𝓵𝓵𝓪 𝓡𝓪𝔂</b></sub></a><br /><a href="#doc-CodeByStella" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://github.com/codebystella"><img src="https://avatars.githubusercontent.com/u/143504233?v=4?s=100" width="100px;" alt="𝓢𝓽𝓮𝓵𝓵𝓪 𝓡𝓪𝔂"/><br /><sub><b>𝓢𝓽𝓮𝓵𝓵𝓪 𝓡𝓪𝔂</b></sub></a><br /><a href="#doc-CodeByStella" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
