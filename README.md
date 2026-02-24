@@ -35,3 +35,18 @@ A collection of technical diagrams (Mermaid) for reference and documentation—M
 
 - Open a PR with your new or updated diagram file and a README table entry.
 - Describe what the diagram shows in the PR description.
+
+### Recognizing contributors
+
+We use [All Contributors](https://allcontributors.org/) to recognize everyone who helps. To add or update a contributor, use the [**@all-contributors bot**](https://allcontributors.org/bot/usage/) in an issue or PR—e.g. `@all-contributors please add @username for docs`.
+
+## Contributors
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
