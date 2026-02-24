@@ -9,6 +9,15 @@
   "contributorsPerLine": 7,
   "contributors": [
     {
+      "login": "CodeByStella",
+      "name": "Stella Ray",
+      "avatar_url": "https://avatars.githubusercontent.com/u/143504233?v=4",
+      "profile": "https://github.com/CodeByStella",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
       "login": "itstar064",
       "name": "ITstar",
       "avatar_url": "https://avatars.githubusercontent.com/u/183505215?v=4",
