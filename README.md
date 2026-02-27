@@ -1,17 +1,11 @@
-# My Diagrams
-
-A collection of technical diagrams (Mermaid) for reference and documentation—ML pipelines, system design, workflows, and more.
-
-<img src="./thumbnail.png" width="100%" alt="ITstar"/>
-
-## Diagrams
-
-| #   | Title                                                                           |
+|     |                                                                                 |
 | --- | ------------------------------------------------------------------------------- |
 | 1   | [ML Training Pipeline](./diagrams/ai-ml-training-pipeline.md)                   |
 | 2   | [How Embeddings Work in Machine Learning](./diagrams/how-embeddings-work-ml.md) |
 
----
+# My Diagrams
+
+A collection of technical diagrams (Mermaid) for reference and documentation—ML pipelines, system design, workflows, and more.
 
 ## Contributing
 
