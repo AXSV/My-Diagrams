@@ -1,4 +1,4 @@
-|     |                                                                                 |
+| #   | Diagram                                                                         |
 | --- | ------------------------------------------------------------------------------- |
 | 1   | [ML Training Pipeline](./diagrams/ai-ml-training-pipeline.md)                   |
 | 2   | [How Embeddings Work in Machine Learning](./diagrams/how-embeddings-work-ml.md) |
