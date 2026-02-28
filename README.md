@@ -6,7 +6,7 @@
 | 4   | [Transformer: Attention Overview](./diagrams/transformer-attention-overview.md)         |
 | 5   | [LLM Fine-tuning Pipeline](./diagrams/llm-finetuning-pipeline.md)                       |
 | 6   | [Neural Network Overview](./diagrams/neural-network-overview.md)                        |
-| 7   | [ML Data Split: Train, Validation, Test](./diagrams/ml-data-split.md)                  |
+| 7   | [ML Data Split: Train, Validation, Test](./diagrams/ml-data-split.md)                   |
 
 # My Diagrams
 
@@ -29,7 +29,7 @@ A collection of technical diagrams (Mermaid) for reference and documentation—M
 ### Adding a diagram
 
 1. **Create a markdown file** (e.g. `topic-name.md`) in this repo.
-2. **Use Mermaid** inside a fenced code block:
+2. **Use Mermaid** inside a fencede code block:
    ````md
    ```mermaid
    flowchart TD
