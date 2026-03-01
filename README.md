@@ -6,7 +6,8 @@
 | 4   | [Transformer: Attention Overview](./diagrams/transformer-attention-overview.md)         |
 | 5   | [LLM Fine-tuning Pipeline](./diagrams/llm-finetuning-pipeline.md)                       |
 | 6   | [Neural Network Overview](./diagrams/neural-network-overview.md)                        |
-| 7   | [ML Data Split: Train, Validation, Test](./diagrams/ml-data-split.md)                  |
+| 7   | [ML Data Split: Train, Validation, Test](./diagrams/ml-data-split.md)                   |
+| 8   | [AI Engineer RoadMap](./diagrams/AI-engineer-raodmap.md)                   |
 
 # My Diagrams
 
