@@ -7,7 +7,8 @@
 | 5   | [LLM Fine-tuning Pipeline](./diagrams/llm-finetuning-pipeline.md)                       |
 | 6   | [Neural Network Overview](./diagrams/neural-network-overview.md)                        |
 | 7   | [ML Data Split: Train, Validation, Test](./diagrams/ml-data-split.md)                   |
-| 8   | [AI Engineer RoadMap](./diagrams/AI-engineer-raodmap.md)                   |
+| 8   | [AI Engineer RoadMap](./diagrams/AI-engineer-raodmap.md)                                |
+| 9   | [Receipt OCR & AI Extraction System](./diagrams/Receipt-OCR-n-AI-extraction-system.md)  |
 
 # My Diagrams
 
